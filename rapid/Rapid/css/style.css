@@ -1657,6 +1657,17 @@ body {font-family: Arial, Helvetica, sans-serif;}
   color: white;
 }
 
+#g-recaptcha-response {
+    display: block !important;
+    position: absolute;
+    margin: -78px 0 0 0 !important;
+    width: 302px !important;
+    height: 76px !important;
+    z-index: -999999;
+    opacity: 0;
+}
+
+
 h1,h2,h3,h4,h5{text-transform:capitalize
 }a:hover{text-decoration:none!important}
 body{margin:0;padding:0;font-family:Poppins,sans-serif}
