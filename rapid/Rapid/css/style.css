@@ -1667,6 +1667,11 @@ body {font-family: Arial, Helvetica, sans-serif;}
     opacity: 0;
 }
 
+  
+.card{
+  border-bottom: none;
+}
+
 
 h1,h2,h3,h4,h5{text-transform:capitalize
 }a:hover{text-decoration:none!important}
